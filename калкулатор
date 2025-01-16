@@ -32,7 +32,7 @@ def calkulator():
     else:  
         print("Невалидна операция. Моля, опитайте отново.")  
 
-калкулатор()
+calkulator()
 
 def add(x, y):
     return x + y
