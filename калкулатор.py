@@ -1,6 +1,6 @@
 def calkulator():  
     print("Изберете операция:")  
-    print("1. Събиране")  
+    print("1. add")
     print("2. Изваждане")  
     print("3. Умножение")  
     print("4. Деление")  
